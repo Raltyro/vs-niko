@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="niko.png">
+	<SubTexture name="niko niko idle0000" x="0" y="0" width="243" height="456" frameX="-23" frameY="-10" frameWidth="251" frameHeight="459"/>
+	<SubTexture name="niko niko idle0001" x="243" y="0" width="251" height="459" frameX="-23" frameY="-6" frameWidth="251" frameHeight="459"/>
+	<SubTexture name="niko niko idle0002" x="494" y="0" width="249" height="464" frameX="-23" frameY="-3" frameWidth="249" frameHeight="464"/>
+	<SubTexture name="niko niko idle0003" x="743" y="0" width="230" height="466" frameX="0" frameY="0" frameWidth="230" frameHeight="466"/>
+	<SubTexture name="niko niko up0000" x="0" y="0" width="243" height="456"/>
+	<SubTexture name="niko niko up0001" x="0" y="0" width="243" height="456"/>
+	<SubTexture name="niko niko up0002" x="0" y="0" width="243" height="456"/>
+	<SubTexture name="niko niko down0000" x="0" y="0" width="243" height="456"/>
+	<SubTexture name="niko niko down0001" x="0" y="0" width="243" height="456"/>
+	<SubTexture name="niko niko down0002" x="0" y="0" width="243" height="456"/>
+	<SubTexture name="niko niko left0000" x="0" y="0" width="243" height="456"/>
+	<SubTexture name="niko niko left0001" x="0" y="0" width="243" height="456"/>
+	<SubTexture name="niko niko left0002" x="0" y="0" width="243" height="456"/>
+	<SubTexture name="niko niko right0000" x="0" y="0" width="243" height="456"/>
+	<SubTexture name="niko niko right0001" x="0" y="0" width="243" height="456"/>
+	<SubTexture name="niko niko right0002" x="0" y="0" width="243" height="456"/>
+</TextureAtlas>
